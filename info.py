@@ -67,14 +67,14 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'kingvj01') # owner username with
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+u9dSPxCw_LRlODc1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Ajcinemassofcl')
-TUTORIAL = environ.get('TUTORIAL', '')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_open_linkzz/13')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', '')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+wzB-8NWd6vdhOTI1') # Support Chat Link Without https:// or @
 
 # True Or False
 PM_SEARCH = bool(environ.get('PM_SEARCH', True)) # In Pm Search Currently Spell Check Doesn't Work.
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-VERIFY = bool(environ.get('VERIFY', False))
+VERIFY = bool(environ.get('VERIFY', True))
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
