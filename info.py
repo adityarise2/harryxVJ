@@ -68,7 +68,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'kingvj01') # owner username with
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+u9dSPxCw_LRlODc1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Ajcinemassofcl')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_open_linkzz/13')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', '')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/how_to_open_linkzz/13')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+wzB-8NWd6vdhOTI1') # Support Chat Link Without https:// or @
 
 # True Or False
@@ -92,8 +92,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Shortlink Info
-SHORTLINK_URL = environ.get('SHORTLINK_URL', '')
-SHORTLINK_API = environ.get('SHORTLINK_API', '')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '74b308ea3b6b466a5116613403c051e12327485b')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
