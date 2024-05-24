@@ -39,7 +39,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-            InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/+u9dSPxCw_LRlODc1"),
+            InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/how_to_open_linkzz/15"),
             InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/+u9dSPxCw_LRlODc1')
         ],[
             InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
@@ -60,7 +60,7 @@ async def start(client, message):
             buttons = [[
                 InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/+u9dSPxCw_LRlODc1"),
+                InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/how_to_open_linkzz/15"),
                 InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
             ],[
                 InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -74,7 +74,7 @@ async def start(client, message):
             buttons = [[
                 InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/+u9dSPxCw_LRlODc1"),
+                InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/how_to_open_linkzz/15"),
                 InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
             ],[
                 InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -127,7 +127,7 @@ async def start(client, message):
             buttons = [[
                 InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/+u9dSPxCw_LRlODc1"),
+                InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/how_to_open_linkzz/15"),
                 InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
             ],[
                 InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -141,7 +141,7 @@ async def start(client, message):
             buttons = [[
                 InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/+u9dSPxCw_LRlODc1"),
+                InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/how_to_open_linkzz/15"),
                 InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
             ],[
                 InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -180,7 +180,7 @@ async def start(client, message):
                 buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/+u9dSPxCw_LRlODc1"),
+                    InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/how_to_open_linkzz/15"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -194,7 +194,7 @@ async def start(client, message):
                 buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/+u9dSPxCw_LRlODc1"),
+                    InlineKeyboardButton('HOW TO USE BOT', url="https://t.me/how_to_open_linkzz/15"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -374,19 +374,19 @@ async def start(client, message):
         if str(message.from_user.id) != str(userid):
             return await message.reply_text(
                 text="<b>Invalid link or Expired link !</b>",
-                protect_content=False
+                protect_content=True
             )
         is_valid = await check_token(client, userid, token)
         if is_valid == True:
             await message.reply_text(
                 text=f"<b>Hey {message.from_user.mention}, You are successfully verified !\nNow you have unlimited access for all movies till today midnight.</b>",
-                protect_content=False
+                protect_content=True
             )
             await verify_user(client, userid, token)
         else:
             return await message.reply_text(
                 text="<b>Invalid link or Expired link !</b>",
-                protect_content=False
+                protect_content=True
             )
     if data.startswith("sendfiles"):
         chat_id = int("-" + file_id.split("-")[1])
@@ -458,7 +458,7 @@ async def start(client, message):
                     ]]
                     await message.reply_text(
                         text="<b>You are not verified !\nKindly verify to continue !</b>",
-                        protect_content=False,
+                        protect_content=True,
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
                     return
@@ -531,7 +531,7 @@ async def start(client, message):
                     ]]
                     await message.reply_text(
                         text="<b>You are not verified !\nKindly verify to continue !</b>",
-                        protect_content=False,
+                        protect_content=True,
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
                     return
@@ -603,7 +603,7 @@ async def start(client, message):
             ]]
             await message.reply_text(
                 text="<b>You are not verified !\nKindly verify to continue !</b>",
-                protect_content=False,
+                protect_content=True,
                 reply_markup=InlineKeyboardMarkup(btn)
             )
             return
